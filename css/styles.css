@@ -33,11 +33,13 @@ button {
     color: #4d5ae5;
 }
 
+/* Header logo: "Studio" — dark */
 .logo-accent {
     color: #2e2f42;
 }
 
-.footer-logo span {
+/* Footer logo: "Studio" — light */
+.footer-logo-accent {
     color: #f4f4fd;
 }
 
